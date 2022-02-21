@@ -1,4 +1,4 @@
-## Olá! Eu sou a Adalberto Ribeiro, Estudante Dev Web Full da TRYBE!
+## Olá! Eu sou a Adalberto Ribeiro, Estudante de Desenvolvimento Web na Trybe!
 <div align="center">
   <a href="https://github.com/Beto1821">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Beto1821&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
