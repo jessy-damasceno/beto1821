@@ -1,5 +1,5 @@
 ## Hi! I am Adalberto Ribeiro, Web Development Student at Trybe!
-<div align="center">
+<div>
   <a href="https://github.com/Beto1821">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Beto1821&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beto1821&layout=compact&langs_count=7&theme=dracula"/>
